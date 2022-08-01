@@ -1,2 +1,4 @@
 # .github
 DRAC-Network
+
+DRAC Network is a public chain independently developed based on Ethereum. People-oriented, decentralization, autonomy, equal rights, and unique blockchain identity are our tenets. Before quantum computing and more efficient transmission are popularized, how to solve decentralization and equality? DRAC will use the living biobank to authenticate the uniqueness of the blockchain identity and solve the decentralization of peace rights with the concept of a people-oriented and autonomous way of faction voting. Self-built ecology includes DEX, cross-chain bridge, NFT minting and auction, wallet, chart, lock-up, etc. At the same time, it also opens up a new world for more blockchain believers and supports the construction of more application DAPPs that adhere to decentralized beliefs.
